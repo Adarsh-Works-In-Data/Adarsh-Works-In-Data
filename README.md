@@ -8,9 +8,9 @@
 > - I am still open to undertake some challenging services
 ---
 ### Tech I am Handy with : 
-<img src='assets/python.png' alt="python" height=50 width=50> <img src='assets/colab.svg' alt="Collab" height=50 width=50> <img src='assets/docker.png' alt="docker" height=50 width=50> <img src='assets/deep-learning.png' alt="docker" height=50 width=50> <img src='assets/huggingface.svg' alt="docker" height=50 width=50> 
-<img src='assets/langchain.svg' alt="docker" height=50 width=50> <img src='assets/langgraph.svg' alt="docker" height=50 width=50> <img src='assets/llamaindex.svg' alt="docker" height=50 width=50>  <img src='assets/mcp.svg' alt="docker" height=50 width=50>   <img src='assets/ollama.svg' alt="docker" height=50 width=50>
-<img src='assets/snowflake.svg' alt="docker" height=50 width=50> <img src='assets/vercel.svg' alt="docker" height=50 width=50>
+<img src='assets/python.png' alt="python" height=50 width=50> <img src='assets/colab.svg' alt="Collab" height=50 width=50> <img src='assets/docker.png' alt="docker" height=50 width=50> <img src='assets/deep-learning.png' alt="deep-learning" height=50 width=50> <img src='assets/huggingface.svg' alt="huggingface" height=50 width=50> 
+<img src='assets/langchain.svg' alt="langchain" height=50 width=50> <img src='assets/langgraph.svg' alt="langgraph" height=50 width=50> <img src='assets/llamaindex.svg' alt="llamaindex" height=50 width=50>  <img src='assets/mcp.svg' alt="mvp" height=50 width=50>   <img src='assets/ollama.svg' alt="ollama" height=50 width=50>
+<img src='assets/snowflake.svg' alt="dnoeflake" height=50 width=50> <img src='assets/vercel.svg' alt="vercel" height=50 width=50> <img src='assets/aws.svg' alt="aws" height=50 width=50>
 
 <br>
 
